@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luanakwon
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently studying Computer Vision / Object Detection / Image Segmentation
+- 👀 I’m interested in Artificial Intelligence, Machine Learning
+- 🌱 I’m currently studying ...
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
 
