@@ -26,26 +26,26 @@ Korean ++++ | English ++++ | Chinese +
 
 ## Repositories
 - Journal Article
-	- GamingWithAI <!-- - needs readme, not so clean -->
+	- [GamingWithAI](https://github.com/luanakwon/GamingWithAI) <!-- This repo is private, needs readme, not so clean-->
 - Projects
-	- GroupChatGPT 
-	- DroneRacing <!-- does have the core scripts, but thats it -->
-	- invoiceAutomation 
-	- Deepfake-Detectin MAICON2023 <!-- seems fine has the report link -->
-	- Graduation project <!-- bad -->
-	- GenreClassification
+	- [GroupChatGPT](https://github.com/luanakwon/GroupChatGPT) 
+	- [DroneRacing](https://github.com/luanakwon/DroneRacing) <!-- does have the core scripts, but thats it -->
+	- [Invoice_Automation](https://github.com/luanakwon/Invoice_Automation)
+	- [Deepfake-Detection-MAICON2023](https://github.com/luanakwon/Deepfake-Detection-MAICON2023) <!-- seems fine has the report link -->
+	- [Graduation_Project](https://github.com/luanakwon/Graduation_Project) <!-- bad -->
+	- [GenreClassification](https://github.com/Stone-bridge-NLP/BERT)
 - Competition
-	- GroundTemperature <!-- not clean but has all -->
-	- GreatBarrierReef <!-- also not -->
-	- maicon_backup
+	- [GroundTemperature](https://github.com/luanakwon/GroundTemperature) <!-- not clean but has all -->
+	- [GreatBarrierReef](https://github.com/luanakwon/GreatBarrierReef) <!-- also not -->
+	- [maicon_backup](https://github.com/luanakwon/maicon_backup)
 - Study
 	- Algorithm
-		- algorithm practice
+		- [algorithm-practice](https://github.com/JunhoChoi-Unist/algorithm-practice/tree/luanakwon)
 	- ML
-		- manning, 2021-2_ML, fovperi, paperimplementation, ML_pytorch_pre2022
+		- [manning](https://github.com/luanakwon/manning), [2021-2_ML](https://github.com/luanakwon/2021-2_ML), [fovperi](https://github.com/luanakwon/fovperi), [PaperImplementation](https://github.com/luanakwon/PaperImplementation), [ML_Pytorch_pre2022](https://github.com/luanakwon/ML_Pytorch_pre2022)
 	- Android
-		- AndroidTutorial
+		- [AndroidTutorial](https://github.com/luanakwon/AndroidTutorial)
 	- DevOps
-		- forkandclonepractice, 2022_1_SE
+		- [forkandclonepractice](https://github.com/luanakwon/forkandclonepractice), [2022_1_SE](https://github.com/luanakwon/2022_1_SE)
 - Etc
-	- SanFranciscoCrime, Projecst4Fun, SmallBrain
+	- [SanFranciscoCrime](https://github.com/luanakwon/SanFranciscoCrime), [Projecst4Fun](https://github.com/luanakwon/Projects4Fun), [SmallBrain](https://github.com/luanakwon/SmallBrain)
